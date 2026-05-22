@@ -6,11 +6,11 @@ TOTO911 Digital Platform adalah platform digital modern yang berfokus pada penga
 ## 🔗 Link Akses Cepat
 
 <p align="center">
-  <a href="https://toto911.id" style="display:block; width:100%; max-width:400px; padding:12px 18px; margin:8px 0; background-color:#2563eb; color:white; text-decoration:none; border-radius:8px; font-weight:bold; text-align:center;">
+  <a href="https://temulink.com/login-toto911" style="display:block; width:100%; max-width:400px; padding:12px 18px; margin:8px 0; background-color:#2563eb; color:white; text-decoration:none; border-radius:8px; font-weight:bold; text-align:center;">
     🚀 KUNJUNGI WEBSITE
   </a>
   <br>
-  <a href="https://toto911.id" style="display:block; width:100%; max-width:400px; padding:12px 18px; margin:8px 0; background-color:#16a34a; color:white; text-decoration:none; border-radius:8px; font-weight:bold; text-align:center;">
+  <a href="https://temulink.com/login-toto911" style="display:block; width:100%; max-width:400px; padding:12px 18px; margin:8px 0; background-color:#16a34a; color:white; text-decoration:none; border-radius:8px; font-weight:bold; text-align:center;">
     🔐 LOGIN
   </a>
   <br>
